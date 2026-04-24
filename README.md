@@ -1,4 +1,5 @@
 The folder "model w gravitation" contains all the files needed to run the M-Y model (simulating particle transport considering the effect of gravitational sinking)
+
 The folder "model w primary production" is a work in progress, as I tried to add the primary production to the M-Y model in addition to gravitational sinking (simulating particle transport considering the effect of gravitational sinking and primary production)
 
 files:
