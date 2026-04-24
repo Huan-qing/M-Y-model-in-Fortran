@@ -6,7 +6,7 @@
 # this run:  Y          Y             N              N
 #          (specified inside obl.f Fortran code)
 
- f95 mymodel_sv50.f95     # fortran compiler
+ f95 mymodel.f95     # fortran compiler
 
 #f90 obl.f
 #gfortran -O3 obl.f
